@@ -23,7 +23,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.15",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
-    "@vue/cli-service": "^3.0.0-beta.15",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-standard": "^3.0.0-rc.1",
     "cos-js-sdk-v4": "^1.1.11",
     "less": "^3.0.4",
